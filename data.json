@@ -1,0 +1,81 @@
+{
+  "shop": {
+    "shop": {
+      "name": "SHOP",
+      "description": "SHOP",
+      "product": {
+        "Space Battery": {
+          "name": "Space Battery",
+          "price": 100,
+          "Heal": 50
+        },
+        "Space Battery Pro": {
+          "name": "Space Battery Pro",
+          "price": 200,
+          "Heal": 100
+        },
+        "Ultra quantum \nBattery Pro Max": {
+          "name": "Ultra quantum Battery Pro Max",
+          "price": 99999,
+          "Heal": 500
+        }
+      }
+    },
+    "store":{
+        "name": "STORE",
+      "description": "STORE",
+      "product": {
+        "Space Battery": {
+          "name": "Space Battery",
+          "price": 100,
+          "Heal": 50
+        },
+        "Space Battery Pro": {
+          "name": "Space Battery Pro",
+          "price": 200,
+          "Heal": 100
+        },
+        "Ultra quantum \nBattery Pro Max": {
+          "name": "Ultra quantum Battery Pro Max",
+          "price": 99999,
+          "Heal": 500
+        }
+      }
+    }
+  },
+  "Pokemon-Center": {
+    "name": "PokemonCenter",
+    "description": "PokemonCenter",
+    "product": {
+      "Cheap Junk Pokecard Converter": {
+        "name": "Cheap Junk Pokecard Converter",
+        "description": "Bro,This one is so cheap, it's like a junk, Level D Pokemon Catch rate is 20%",
+        "price": 100,
+        "Catch Rate": 0.2
+      },
+      "Pokecard Converter": {
+        "name": "This is the most common Pokecard Converter, Level D Pokemon Catch rate is 50%",
+        "price": 300,
+        "Catch Rate": 0.5
+      },
+      "Hyper Pokecard Converter": {
+        "name": "Hyper Pokecard Converter",
+        "description": "This is the High Efficiency Pokecard Converter, Level D Pokemon Catch rate is 80%",
+        "price": 1000,
+        "Catch Rate": 0.8
+      },
+      "Ultra Hyper Pokecard Converter": {
+        "name": "Ultra Hyper Pokecard Converter",
+        "description": "This is the Ultra High Efficiency Pokecard Converter, Level D Pokemon Catch rate is 100%",
+        "price": 5000,
+        "Catch Rate": 0.95
+      },
+      "UNO Reverse Card": {
+        "name": "UNO Reverse Card",
+        "description": "You will become a PokeCard, and the Save will destroy after using it",
+        "price": 50000,
+        "Catch Rate": 1
+      }
+    }
+  }
+}

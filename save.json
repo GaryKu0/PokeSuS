@@ -1,0 +1,17 @@
+{
+    "save": {
+        "name": "AmongUS",
+        "HP": 100,
+        "ATK": 10,
+        "Money": 1600,
+        "Item": {
+            "Space Battery": 0,
+            "PokeCard Converter": 0
+        },
+        "PokeCard": {
+            "seel": "./collections/seel.png",
+            "torkoal": "./collections/torkoal.png",
+            "zweilous-73536": "./collections/zweilous-73536.png"
+        }
+    }
+}
