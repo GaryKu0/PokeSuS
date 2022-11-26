@@ -60,6 +60,7 @@ def GetCard(canva,money,text):
         save['save']['PokeCard'][Pokemon['name']]=GeneratePokemonCard
         autosave=open("./save.json","w")
         autosave.write(json.dumps(save,indent=4))
+        autosave.close()
         os.startfile(os.path.normpath(GeneratePokemonCard)) 
         
 def DeletePokeCard():
